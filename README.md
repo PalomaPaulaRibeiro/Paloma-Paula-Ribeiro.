@@ -1,13 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3800&pause=932&color=FF91A4&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=+++Oi!+Sou+a+Paloma+%F0%9F%A4%97;+++Tenho+28+anos+de+idade;+++Moro+no+Brasil;Estudo+programa%C3%A7%C3%A3o+%F0%9F%95%B6%EF%B8%8F)](https://git.io/typing-svg)
+
+
+
+
 <div align="centro">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paloma&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Paloma Estatísticas do github Ribeiro" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaPaulaRibeiro&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </Div>
 
 
-### Oie! Eu sou a Paloma, estudante de programação! 😊
-📖 Hoje estudo
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3800&pause=932&color=FF91A4&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=No+momento+estudo)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PalomaPaulaRibeiro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
