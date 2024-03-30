@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3800&pause=932&color=FF91A4&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=+++Oi!+Sou+a+Paloma+%F0%9F%A4%97;+++Tenho+28+anos+de+idade;+++Moro+no+Brasil;Estudo+ADS%C3%A7%C3%A3o+%F0%9F%95%B6%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3800&pause=932&color=FF91A4&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=+++Oi!+Sou+a+Paloma+%F0%9F%A4%97;+++Tenho+28+anos+de+idade;+++Moro+no+Brasil;Estudo+ADS)](https://git.io/typing-svg)
 
 
 
