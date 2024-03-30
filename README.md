@@ -13,7 +13,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3800&pause=932&color=FF91A4&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=No+momento+estudo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3800&pause=932&color=FF91A4&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PalomaPaulaRibeiro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
